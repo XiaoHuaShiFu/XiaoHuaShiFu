@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![XiaoHuaShiFu's github stats](https://github-readme-stats.vercel.app/api?username=XiaoHuaShiFu)](https://github.com/anuraghazra/github-readme-stats)
+[![jiaxwu's github stats](https://github-readme-stats.vercel.app/api?username=jiaxwu)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on backend
 - 🌱 I’m currently learning IM
